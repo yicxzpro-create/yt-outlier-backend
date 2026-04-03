@@ -1,0 +1,9 @@
+{
+  "name": "yt-outlier-backend",
+  "version": "1.0.0",
+  "description": "Backend proxy for YouTube Outlier Finder extension",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
